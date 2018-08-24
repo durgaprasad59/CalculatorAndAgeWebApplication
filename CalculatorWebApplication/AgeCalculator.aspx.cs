@@ -17,8 +17,8 @@ namespace CalculatorWebApplication
 
         protected void Subbtn_Click(object sender, EventArgs e)
         {
-            int NumberofMonths;
-            int NumberofDays;
+            //int NumberofMonths;
+            //int NumberofDays;
             int NumberofYears;
 
             DateTime date = new DateTime();
